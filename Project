@@ -1,0 +1,659 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+<title> PC Build Guide </title>
+</head>
+<body style=background-color:#14C1FD;">
+<style>
+
+div.relative {
+    position: relative;
+    left: 250px;
+}
+div.ssd {
+    position: relative;
+    left: 300px;
+}
+h2 {
+    text-align: center;
+}
+.welcome button{
+    height:30px;
+    width:70px;
+}
+</style>
+
+<a href="CommunityPage.html">Community</a><br>
+<br>
+
+<button class="welcome button" style="color: #14C1FD" type="button" onclick="alert  ('Welcome!')"> <b> <u> Welcome! </b> </u> </button>
+
+<object width="290" height="130"><param name="movie" value="http://www.wunderground.com/swf/pws_mini_rf_nc.swf?station=ITEDDING8&freq=&units=english&lang=EN" /><embed src="http://www.wunderground.com/swf/pws_mini_rf_nc.swf?station=ITEDDING8&freq=&units=english&lang=EN" type="application/x-shockwave-flash" width="290" height="130" /></object>
+
+<p> If you have any quieries then you can fill out this form and contact me. </p>
+
+<form action="mailto:henrysmedcalf@yahoo.com" method="post" enctype="text/plain">
+  First name:<br>
+  <input type="text" name="firstname">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname">
+  <br>
+  Question:<br>
+  <input type="text" name="Question" size="50">
+  <br><br>
+  <input type="submit" value="Submit"><input type="reset" value="Restart" style="color: red">
+</form>
+
+
+<h3  style="color: black; font-style: calibri-body;">  What we do </h3>
+
+<hr>
+
+<p  style="color: white;"> This is a website to help any new PC builders find their way in building their own personal rig.<br>
+It may seem daunting at first, but it is not very difficult. Think of it as LEGO.<br>
+It is proven that it is 40% cheaper to build a PC vs. buying it. <a href="https://www.pcreview.co.uk/articles/how-much-money-can-you-save-by-building-your-own-pc.101/">Source</a>
+
+<h2 style="color: black;"> <u> Step 1: Gather Parts </u> </h2>
+
+<p style="color: white;"> Planning is important. "Fail to prepare, prepare to fail".  Thats why I would recommend <a href="https://pcpartpicker.com/list/">PCPartPicker</a> for all your planning needs.<br>
+You should create a PCPartPicker list and ask some people who know more or consult a guide like this. That would set you on good track to complete your build. </p>
+
+<h3 style="color: white;"> Recommendations </h3>
+
+<p style="color: white;"> In 2018, the are basic recommendations to make your rig run as smoothly as possible. These include: </p>
+
+<h4> Having an SSD </h4>
+
+<center><img src="SSD2.jpg" alt="SSD" height=300 width=490></center>
+
+<p style="color: white;"> If your build is going to cost upwards of £500, it should have an SSD. Its main purpose is to be used as a boot drive (the drive you put the operating system on)<br>
+and also any files that your system may need quickly (like drivers and other system files), but also programs you use regularly (like Microsoft Word etc.). This means that they will load faster. </p>
+
+<h4> Getting a decent power supply </h4>
+
+
+<center><img src="80plus.jpg" alt="80+" height=300 width=600></center>
+
+
+<p style="color: white;"> The last thing you want in your build is a fire that ruins all your parts. That is why you should invest in atleast an 80+ certified power supply<br>
+from a reputable manufacturer. This will give you peace of mind that your rig won't blow up in your face. Manufactures I would recommend:<br>
+
+<ul style="color: white";>
+   <li>Corsair</li>
+   <li>BeQuiet!</li>
+   <li>EVGA</li>
+   <li>Cooler Master</li>
+   <li>Enermax</li>
+   <li>NZXT</li>
+   <li>Thermaltake</li>
+   <li>XFX</li>
+</ul>
+
+
+
+<p style="color: white";> Here's a handy <a href="https://linustechtips.com/main/topic/631048-psu-tier-list-updated/">PSU tier list</a> <br>
+and good video on how much wattage you need
+</p>
+
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lXku-gsdyok" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
+
+<h2> Plan out your parts </h2>
+
+<p style="color: white;"> Next, once you have a vague idea of what you want, plan out your build with PCPartPicker. Here are some build guidlines that I would have in 2018. </p>
+
+<h3> The Budget Build </h3>
+
+<p style="color: white;"> This is the build for people who are on a very tight budget but still want to game. It is a good all-rounder.<br>
+The added silent video card helps with noise. This build is good for 720p ultra settings or 1080p medium settings. </p>
+
+<center>
+<a href="https://uk.pcpartpicker.com/list/XJNPxG">PCPartPicker part list</a> / <a href="https://uk.pcpartpicker.com/list/XJNPxG/by_merchant/">Price breakdown by merchant</a>
+<table class="pcpp-part-list">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Item</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="pcpp-part-list-type">CPU</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/YV7CmG/intel-cpu-bx80662g4400">Intel - Pentium G4400 3.3GHz Dual-Core Processor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/YV7CmG/intel-cpu-bx80662g4400">£42.48 @ Ebuyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Motherboard</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/LygPxr/msi-h110m-pro-vd-plus-micro-atx-lga1151-motherboard-h110m-pro-vd-plus">MSI - H110M PRO-VD PLUS Micro ATX LGA1151 Motherboard</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/LygPxr/msi-h110m-pro-vd-plus-micro-atx-lga1151-motherboard-h110m-pro-vd-plus">£34.98 @ Novatech</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/N3yxFT/crucial-8gb-1-x-8gb-ddr4-2400-memory-ct8g4dfd824a">Crucial - 8GB (1 x 8GB) DDR4-2400 Memory</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/N3yxFT/crucial-8gb-1-x-8gb-ddr4-2400-memory-ct8g4dfd824a">£60.17 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010">Seagate - BarraCuda 1TB 3.5" 7200RPM Internal Hard Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010">£33.95 @ Aria PC</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Video Card</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/s3YWGX/gigabyte-geforce-gt-1030-2gb-silent-low-profile-video-card-gv-n1030sl-2gl">Gigabyte - GeForce GT 1030 2GB Silent Low Profile Video Card</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/s3YWGX/gigabyte-geforce-gt-1030-2gb-silent-low-profile-video-card-gv-n1030sl-2gl">£64.99 @ Overclockers.co.uk</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/CdndnQ/cooler-master-masterbox-lite-31-tg-microatx-mid-tower-case-mcw-l3s3-kgnn-00">Cooler Master - MasterBox Lite 3.1 TG MicroATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/CdndnQ/cooler-master-masterbox-lite-31-tg-microatx-mid-tower-case-mcw-l3s3-kgnn-00">£39.96 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Power Supply</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/2W4NnQ/xfx-power-supply-p1400bxtfr">XFX - XT 400W 80+ Bronze Certified ATX Power Supply</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/2W4NnQ/xfx-power-supply-p1400bxtfr">£32.59 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Prices include shipping, taxes, rebates, and discounts</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-total">Total</td>
+      <td class="pcpp-part-list-total-price">£309.12</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Generated by <a href="http://pcpartpicker.com">PCPartPicker</a> 2018-03-02 21:22 GMT+0000</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+
+<h3> The Entry Level Build </h3>
+
+<p style="color: white;"> This is for the person who has some more money to spare, and wants to get serious with gaming.<br>
+This build can handle 1080p high/ultra settings in most games. For this build, don't forget to to get a BIOS flash  kit for new Raven Ridge CPUs like the Ryzen 3 2200G<br>
+and Ryzen 5 2400G </p>
+
+
+<div class="relative">
+<a href="https://uk.pcpartpicker.com/list/MVKTWD">PCPartPicker part list</a> / <a href="https://uk.pcpartpicker.com/list/MVKTWD/by_merchant/">Price breakdown by merchant</a>
+<table class="pcpp-part-list">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Item</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="pcpp-part-list-type">CPU</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/RkJtt6/amd-ryzen-3-2200g-35ghz-quad-core-processor-yd2200c5fbbox">AMD - Ryzen 3 2200G 3.5GHz Quad-Core Processor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/RkJtt6/amd-ryzen-3-2200g-35ghz-quad-core-processor-yd2200c5fbbox">£84.95 @ Aria PC</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Motherboard</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/dWL7YJ/asrock-ab350m-pro4-micro-atx-am4-motherboard-ab350m-pro4">ASRock - AB350M Pro4 Micro ATX AM4 Motherboard</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/dWL7YJ/asrock-ab350m-pro4-micro-atx-am4-motherboard-ab350m-pro4">£69.90 @ More Computers</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/NpfmP6/patriot-viper-elite-8gb-2-x-4gb-ddr4-2666-memory-pve48g266c6kbl">Patriot - Viper Elite 8GB (2 x 4GB) DDR4-2666 Memory</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/NpfmP6/patriot-viper-elite-8gb-2-x-4gb-ddr4-2666-memory-pve48g266c6kbl">£91.79 @ Alza</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/mPgPxr/a-data-ultimate-su800-128gb-25-solid-state-drive-asu800ss-128gt-c">ADATA - Ultimate SU800 128GB 2.5" Solid State Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/mPgPxr/a-data-ultimate-su800-128gb-25-solid-state-drive-asu800ss-128gt-c">£39.99 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010">Seagate - BarraCuda 1TB 3.5" 7200RPM Internal Hard Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/44Gj4D/seagate-barracuda-1tb-35-7200rpm-internal-hard-drive-st1000dm010">£33.95 @ Aria PC</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Video Card</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/6hKhP6/asus-geforce-gtx-1050-ti-4gb-phoenix-video-card-ph-gtx1050ti-4g">Asus - GeForce GTX 1050 Ti 4GB Phoenix Video Card</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/6hKhP6/asus-geforce-gtx-1050-ti-4gb-phoenix-video-card-ph-gtx1050ti-4g">£162.31 @ BT Shop</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/CdndnQ/cooler-master-masterbox-lite-31-tg-microatx-mid-tower-case-mcw-l3s3-kgnn-00">Cooler Master - MasterBox Lite 3.1 TG MicroATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/CdndnQ/cooler-master-masterbox-lite-31-tg-microatx-mid-tower-case-mcw-l3s3-kgnn-00">£39.96 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Power Supply</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/hgGkcf/corsair-power-supply-cx500">Corsair - Builder 500W 80+ Bronze Certified ATX Power Supply</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/hgGkcf/corsair-power-supply-cx500">£54.99 @ Corsair UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Prices include shipping, taxes, rebates, and discounts</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-total">Total</td>
+      <td class="pcpp-part-list-total-price">£577.84</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Generated by <a href="http://pcpartpicker.com">PCPartPicker</a> 2018-03-03 09:35 GMT+0000</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p style="color: white;"> Otherwise, with the recent spike in GPU prices due to cryptocurrency, you could go with this and upgrade to an NVIDIA 1060 gaphics card<br>
+later down the road. </p>
+
+<div class="relative">
+<a href="https://uk.pcpartpicker.com/list/R7LNGG">PCPartPicker part list</a> / <a href="https://uk.pcpartpicker.com/list/R7LNGG/by_merchant/">Price breakdown by merchant</a>
+<table class="pcpp-part-list">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Item</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="pcpp-part-list-type">CPU</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/FGPKHx/amd-ryzen-5-2400g-36ghz-quad-core-processor-yd2400c5fbbox">AMD - Ryzen 5 2400G 3.6GHz Quad-Core Processor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/FGPKHx/amd-ryzen-5-2400g-36ghz-quad-core-processor-yd2400c5fbbox">£131.94 @ Aria PC</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Motherboard</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/dWL7YJ/asrock-ab350m-pro4-micro-atx-am4-motherboard-ab350m-pro4">ASRock - AB350M Pro4 Micro ATX AM4 Motherboard</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/dWL7YJ/asrock-ab350m-pro4-micro-atx-am4-motherboard-ab350m-pro4">£69.90 @ More Computers</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/NpfmP6/patriot-viper-elite-8gb-2-x-4gb-ddr4-2666-memory-pve48g266c6kbl">Patriot - Viper Elite 8GB (2 x 4GB) DDR4-2666 Memory</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/NpfmP6/patriot-viper-elite-8gb-2-x-4gb-ddr4-2666-memory-pve48g266c6kbl">£91.79 @ Alza</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/mPgPxr/a-data-ultimate-su800-128gb-25-solid-state-drive-asu800ss-128gt-c">ADATA - Ultimate SU800 128GB 2.5" Solid State Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/mPgPxr/a-data-ultimate-su800-128gb-25-solid-state-drive-asu800ss-128gt-c">£39.99 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/CbL7YJ/seagate-barracuda-2tb-35-7200rpm-internal-hard-drive-st2000dm006">Seagate - Barracuda 2TB 3.5" 7200RPM Internal Hard Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/CbL7YJ/seagate-barracuda-2tb-35-7200rpm-internal-hard-drive-st2000dm006">£47.94 @ Aria PC</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/CdndnQ/cooler-master-masterbox-lite-31-tg-microatx-mid-tower-case-mcw-l3s3-kgnn-00">Cooler Master - MasterBox Lite 3.1 TG MicroATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/CdndnQ/cooler-master-masterbox-lite-31-tg-microatx-mid-tower-case-mcw-l3s3-kgnn-00">£39.96 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Power Supply</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/hgGkcf/corsair-power-supply-cx500">Corsair - Builder 500W 80+ Bronze Certified ATX Power Supply</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/hgGkcf/corsair-power-supply-cx500">£54.99 @ Corsair UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Prices include shipping, taxes, rebates, and discounts</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-total">Total</td>
+      <td class="pcpp-part-list-total-price">£476.51</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Generated by <a href="http://pcpartpicker.com">PCPartPicker</a> 2018-03-03 10:24 GMT+0000</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3> The Casual Build </h3>
+
+<p style="color: white;"> This build is for people who are getting serious about gaming or work and media production. It can play games at 1440p at medium settings with ease.<br>
+The 6 core 12 thread Ryzen cpu really helps with multitasking and bigger workloads. </p>
+
+<div class="relative">
+<a href="https://uk.pcpartpicker.com/list/pRd7P3">PCPartPicker part list</a> / <a href="https://uk.pcpartpicker.com/list/pRd7P3/by_merchant/">Price breakdown by merchant</a>
+<table class="pcpp-part-list">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Item</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="pcpp-part-list-type">CPU</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/mV98TW/amd-ryzen-5-1600-32ghz-6-core-processor-yd1600bbaebox">AMD - Ryzen 5 1600 3.2GHz 6-Core Processor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/mV98TW/amd-ryzen-5-1600-32ghz-6-core-processor-yd1600bbaebox">£151.14 @ Aria PC</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Motherboard</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/ZHyxFT/asus-strix-b350-f-gaming-atx-am4-motherboard-strix-b350-f-gaming">Asus - STRIX B350-F GAMING ATX AM4 Motherboard</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/ZHyxFT/asus-strix-b350-f-gaming-atx-am4-motherboard-strix-b350-f-gaming">£99.76 @ AWD-IT</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/MYH48d/corsair-memory-cmk16gx4m2b3000c15">Corsair - Vengeance LPX 16GB (2 x 8GB) DDR4-3000 Memory</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/MYH48d/corsair-memory-cmk16gx4m2b3000c15">£176.80 @ AWD-IT</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/ZPx2FT/intel-545s-256gb-25-solid-state-drive-ssdsc2kw256g8x1">Intel - 545s 256GB 2.5" Solid State Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/ZPx2FT/intel-545s-256gb-25-solid-state-drive-ssdsc2kw256g8x1">£82.00 @ AWD-IT</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Video Card</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/RFs8TW/gigabyte-geforce-gtx-1060-6gb-xtreme-gaming-video-card-gv-n1060xtreme-6gd">Gigabyte - GeForce GTX 1060 6GB 6GB Xtreme Gaming Video Card</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/RFs8TW/gigabyte-geforce-gtx-1060-6gb-xtreme-gaming-video-card-gv-n1060xtreme-6gd">£265.45 @ BT Shop</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/VK4NnQ/cooler-master-case-mcx0005kkn00">Cooler Master - MasterCase 5 ATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/VK4NnQ/cooler-master-case-mcx0005kkn00">�£7.33 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Power Supply</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/Cfw323/corsair-power-supply-cx600">Corsair - Builder 600W 80+ Bronze Certified ATX Power Supply</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/Cfw323/corsair-power-supply-cx600">£60.85 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Prices include shipping, taxes, rebates, and discounts</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-total">Total</td>
+      <td class="pcpp-part-list-total-price">£903.33</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Generated by <a href="http://pcpartpicker.com">PCPartPicker</a> 2018-03-03 10:37 GMT+0000</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3> The Enthusiast Build </h3>
+
+<p style="color: white;"> This is the build for the enthusiast who really wants a top notch build to get really good fps and<br>
+resolution. The 8700k is the fastest gaming cpu out there at the moment and has nice possib. </p>
+
+<div class="relative">
+<a href="https://uk.pcpartpicker.com/list/Wj7jXP">PCPartPicker part list</a> / <a href="https://uk.pcpartpicker.com/list/Wj7jXP/by_merchant/">Price breakdown by merchant</a>
+<table class="pcpp-part-list">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Item</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="pcpp-part-list-type">CPU</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/sxDzK8/intel-core-i7-8700k-37ghz-6-core-processor-bx80684i78700k">Intel - Core i7-8700K 3.7GHz 6-Core Processor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/sxDzK8/intel-core-i7-8700k-37ghz-6-core-processor-bx80684i78700k">£308.95 @ AWD-IT</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">CPU Cooler</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/CrDzK8/corsair-cpu-cooler-cw9060025ww">Corsair - H100i v2 70.7 CFM Liquid CPU Cooler</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/CrDzK8/corsair-cpu-cooler-cw9060025ww">£98.99 @ AWD-IT</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Motherboard</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/3MJkcf/asus-prime-z370-a-atx-lga1151-motherboard-prime-z370-a">Asus - Prime Z370-A ATX LGA1151 Motherboard</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/3MJkcf/asus-prime-z370-a-atx-lga1151-motherboard-prime-z370-a">£133.11 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/LhgPxr/gskill-memory-f43000c15d16gvrb">G.Skill - Ripjaws V Series 16GB (2 x 8GB) DDR4-3000 Memory</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/LhgPxr/gskill-memory-f43000c15d16gvrb">£178.90 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/ft8j4D/crucial-mx500-500gb-25-solid-state-drive-ct500mx500ssd1">Crucial - MX500 500GB 2.5" Solid State Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/ft8j4D/crucial-mx500-500gb-25-solid-state-drive-ct500mx500ssd1">£111.99 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Video Card</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/bd2rxr/gigabyte-geforce-gtx-1080-ti-11gb-aorus-xtreme-edition-11g-video-card-gv-n108taorus-x-11gd">Gigabyte - GeForce GTX 1080 Ti 11GB AORUS Xtreme Edition 11G Video Card</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/bd2rxr/gigabyte-geforce-gtx-1080-ti-11gb-aorus-xtreme-edition-11g-video-card-gv-n108taorus-x-11gd">£777.48 @ Novatech</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/wLdFf7/corsair-cc-9011098-ww-atx-mid-tower-case-cc-9011098-ww">Corsair - Crystal 570X RGB ATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/wLdFf7/corsair-cc-9011098-ww-atx-mid-tower-case-cc-9011098-ww">£155.69 @ Ebuyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Power Supply</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/9q38TW/corsair-power-supply-cp9020092na">Corsair - RMx 750W 80+ Gold Certified Fully-Modular ATX Power Supply</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/9q38TW/corsair-power-supply-cp9020092na">£106.93 @ BT Shop</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Prices include shipping, taxes, rebates, and discounts</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-total">Total</td>
+      <td class="pcpp-part-list-total-price">£1872.04</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Generated by <a href="http://pcpartpicker.com">PCPartPicker</a> 2018-03-03 18:33 GMT+0000</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3> The Workstation Build </h3>
+
+<p style="color: white;"> This is for the professionals who really want a beast of a machine. This build is not for gaming,<br>
+but for professional video editing and simulations. </p>
+
+<div class="relative">
+<a href="https://uk.pcpartpicker.com/list/3NYD3b">PCPartPicker part list</a> / <a href="https://uk.pcpartpicker.com/list/3NYD3b/by_merchant/">Price breakdown by merchant</a>
+<table class="pcpp-part-list">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Item</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="pcpp-part-list-type">CPU</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/NKp323/intel-cpu-bx80660e52697v4">Intel - Xeon E5-2697 V4 2.3GHz 18-Core Processor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/NKp323/intel-cpu-bx80660e52697v4">£2398.11 @ Scan.co.uk</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">CPU Cooler</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/CrDzK8/corsair-cpu-cooler-cw9060025ww">Corsair - H100i v2 70.7 CFM Liquid CPU Cooler</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/CrDzK8/corsair-cpu-cooler-cw9060025ww">£98.99 @ AWD-IT</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Motherboard</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/hDqbt6/asus-rampage-v-edition-10-eatx-lga2011-3-motherboard-rampage-v-edition-10">Asus - Rampage V Edition 10 EATX LGA2011-3 Motherboard</a></td>
+      <td class="pcpp-part-list-price">
+       £412.00
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/qzJkcf/gskill-trident-z-rgb-64gb-4-x-16gb-ddr4-3200-memory-f4-3200c14q-64gtzr">G.Skill - Trident Z RGB 64GB (4 x 16GB) DDR4-3200 Memory</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/qzJkcf/gskill-trident-z-rgb-64gb-4-x-16gb-ddr4-3200-memory-f4-3200c14q-64gtzr">£899.99 @ Overclockers.co.uk</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/Ykbkcf/samsung-960-evo-500gb-m2-2280-solid-state-drive-mz-v6e500">Samsung - 960 EVO 500GB M.2-2280 Solid State Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/Ykbkcf/samsung-960-evo-500gb-m2-2280-solid-state-drive-mz-v6e500">£194.50 @ Aria PC</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Video Card</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/cKdFf7/pny-quadro-p5000-16gb-video-card-vcqp5000-pb">PNY - Quadro P5000 16GB Video Card</a> (2-Way SLI)</td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/cKdFf7/pny-quadro-p5000-16gb-video-card-vcqp5000-pb">£1759.58 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Video Card</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/cKdFf7/pny-quadro-p5000-16gb-video-card-vcqp5000-pb">PNY - Quadro P5000 16GB Video Card</a> (2-Way SLI)</td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/cKdFf7/pny-quadro-p5000-16gb-video-card-vcqp5000-pb">£1759.58 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/2mQRsY/phanteks-enthoo-pro-m-tempered-glass-atx-mid-tower-case-ph-es515ptg_bk">Phanteks - Enthoo Pro M Tempered Glass (Black) ATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/2mQRsY/phanteks-enthoo-pro-m-tempered-glass-atx-mid-tower-case-ph-es515ptg_bk">£83.93 @ Ebuyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Power Supply</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/vkYXsY/corsair-power-supply-ax1200i">Corsair - 1200W 80+ Platinum Certified Fully-Modular ATX Power Supply</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/vkYXsY/corsair-power-supply-ax1200i">£319.98 @ Ebuyer</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Prices include shipping, taxes, rebates, and discounts</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-total">Total</td>
+      <td class="pcpp-part-list-total-price">£7926.66</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Generated by <a href="http://pcpartpicker.com">PCPartPicker</a> 2018-03-04 08:44 GMT+0000</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h2> <u> Step 2: Get Ready </u> </h2>
+
+<hr>
+
+<p style="color: white;"> For newer builders, it may be advisable to add some protection from electrostatic shocks.<br>
+Things like anti-static wristbands can be the difference between a clean build and one that ends in disaster and lots of money needing to be spent because of the fact that manufacturers don't<br>
+cover damage from electro-static shocks. </p>
+
+<p style="color: white;"> A method I would recommend is using an anti-static wriststrap <a href="https://www.amazon.co.uk/mercury-710-131-Antistatic-Wrist-Band-blue/dp/B000L98002">like this one.</a> <br>
+Otherwise, you should always not have any big jumpers on and don't pet animals. Always touch the case before you touch any components.</p>
+
+<h2> <u> Step 3: Start Building </u> </h2>
+
+<p style="color: white;"> The first step is to make a testbench. This will mean that you can test all the parts before <br>
+  putting them inside the case. </p>
+
+
+<center><img src="MotherBoardTestBench.jpg" alt="testbench" height="400px" width="600"></center>
+
+<p> Then,
